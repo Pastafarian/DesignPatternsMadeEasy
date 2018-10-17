@@ -8,6 +8,7 @@ namespace DesignPatterns
         {
             Adapter.Run();
             ChainOfResponsibility.Run();
+            Observer.Run();
 
             Console.ReadLine();
         }
