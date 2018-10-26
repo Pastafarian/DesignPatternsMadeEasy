@@ -1,16 +1,13 @@
 ﻿using System;
 
-namespace DesignPaterns
+namespace DesignPatterns
 {
     public class Program
     {
-
-
-
         static void Main(string[] args)
         {
-        
 
+            ChainOfResponsibilityExample.Run();
             Console.ReadLine();
         }
     }

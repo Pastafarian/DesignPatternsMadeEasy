@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DesignPatterns
 {
-    public static class ChainOfResponsibility
+    public static class ChainOfResponsibilityExample
     {
 
         public enum Language
