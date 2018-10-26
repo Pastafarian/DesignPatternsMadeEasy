@@ -6,7 +6,8 @@ namespace DesignPatterns
     {
         static void Main(string[] args)
         {
-
+            Adapter.Run();
+            Observer.Run();
             ChainOfResponsibilityExample.Run();
             Console.ReadLine();
         }
